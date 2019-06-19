@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:26:26 +0800] "GET /brand/findAll.do HTTP/1.1" 500 13389 http-bio-9101-exec-2 3490
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:28:39 +0800] "GET /brand/findAll.do HTTP/1.1" 200 908 http-bio-9101-exec-1 2025
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-4 38
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /plugins/adminLTE/css/skins/_all-skins.min.css HTTP/1.1" 304 - http-bio-9101-exec-7 30
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /plugins/adminLTE/css/AdminLTE.css HTTP/1.1" 304 - http-bio-9101-exec-5 32
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-9101-exec-6 41
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 - http-bio-9101-exec-10 31
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /css/style.css HTTP/1.1" 304 - http-bio-9101-exec-8 19
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /plugins/angularjs/angular.min.js HTTP/1.1" 304 - http-bio-9101-exec-7 19
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:10 +0800] "GET /plugins/jQuery/jquery-2.2.3.min.js HTTP/1.1" 304 - http-bio-9101-exec-9 41
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:14 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-4 0
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:14 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-4 0
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:15 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-4 0
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:15 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-4 0
+0:0:0:0:0:0:0:1 - - [19/Jun/2019:08:29:15 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-4 4
