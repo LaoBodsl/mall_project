@@ -136,3 +136,12 @@
 0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:38:52 +0800] "GET /js/controller/brandController.js HTTP/1.1" 304 - http-bio-9101-exec-9 0
 0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:40:27 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-1 11
 0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:40:27 +0800] "GET /js/controller/brandController.js HTTP/1.1" 304 - http-bio-9101-exec-1 11
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:42:26 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-1 46
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:42:26 +0800] "GET /js/controller/brandController.js HTTP/1.1" 304 - http-bio-9101-exec-3 16
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:42:28 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-4 1
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:42:33 +0800] "GET /admin/brand.html HTTP/1.1" 304 - http-bio-9101-exec-5 4
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:44:56 +0800] "GET /admin/brand.html HTTP/1.1" 200 6270 http-bio-9101-exec-7 21
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:44:56 +0800] "GET /js/controller/brandController.js HTTP/1.1" 304 - http-bio-9101-exec-10 12
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:44:56 +0800] "GET /js/service/brandService.js HTTP/1.1" 304 - http-bio-9101-exec-8 16
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:44:56 +0800] "GET /js/controller/baseController.js HTTP/1.1" 200 667 http-bio-9101-exec-9 28
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:22:44:58 +0800] "POST /brand/search.do?page=1&size=10 HTTP/1.1" 200 425 http-bio-9101-exec-9 1997
