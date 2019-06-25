@@ -37,3 +37,10 @@
 0:0:0:0:0:0:0:1 - - [23/Jun/2019:16:48:33 +0800] "POST /specification/update.do HTTP/1.1" 200 41 http-bio-9101-exec-6 35
 0:0:0:0:0:0:0:1 - - [23/Jun/2019:16:48:33 +0800] "POST /specification/search.do?page=1&rows=10 HTTP/1.1" 200 350 http-bio-9101-exec-7 11
 0:0:0:0:0:0:0:1 - - [23/Jun/2019:16:48:35 +0800] "GET /specification/findOne.do?id=38 HTTP/1.1" 200 128 http-bio-9101-exec-9 13
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:17:02:47 +0800] "GET /admin/specification.html HTTP/1.1" 200 7167 http-bio-9101-exec-1 49
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:17:02:50 +0800] "POST /specification/search.do?page=1&rows=10 HTTP/1.1" 200 350 http-bio-9101-exec-3 2521
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:17:02:54 +0800] "POST /specification/search.do?page=2&rows=10 HTTP/1.1" 200 75 http-bio-9101-exec-5 11
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:17:02:58 +0800] "GET /specification/delete.do?ids=38,39,40 HTTP/1.1" 200 41 http-bio-9101-exec-6 40
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:17:02:58 +0800] "POST /specification/search.do?page=2&rows=10 HTTP/1.1" 200 21 http-bio-9101-exec-7 8
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:17:02:58 +0800] "POST /specification/search.do?page=1&rows=10 HTTP/1.1" 200 320 http-bio-9101-exec-8 14
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:17:02:58 +0800] "POST /specification/search.do?page=1&rows=10 HTTP/1.1" 200 320 http-bio-9101-exec-9 17
