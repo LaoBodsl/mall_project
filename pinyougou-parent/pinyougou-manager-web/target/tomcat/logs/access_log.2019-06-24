@@ -21,3 +21,11 @@
 0:0:0:0:0:0:0:1 - - [24/Jun/2019:11:26:17 +0800] "POST /typeTemplate/search.do?page=1&rows=10 HTTP/1.1" 200 1005 http-bio-9101-exec-9 2590
 0:0:0:0:0:0:0:1 - - [24/Jun/2019:11:26:45 +0800] "GET /plugins/select2/select2-spinner.gif HTTP/1.1" 200 1849 http-bio-9101-exec-5 15
 0:0:0:0:0:0:0:1 - - [24/Jun/2019:11:26:47 +0800] "GET /plugins/select2/select2.png HTTP/1.1" 200 613 http-bio-9101-exec-5 9
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:33 +0800] "GET /admin/type_template.html HTTP/1.1" 200 8459 http-bio-9101-exec-1 50
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:33 +0800] "GET /js/service/brandService.js HTTP/1.1" 200 846 http-bio-9101-exec-2 20
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:33 +0800] "GET /js/ HTTP/1.1" 404 957 http-bio-9101-exec-3 24
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:33 +0800] "GET /js/angular-select2.js HTTP/1.1" 304 - http-bio-9101-exec-4 15
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:33 +0800] "GET /js/controller/typeTemplateController.js HTTP/1.1" 200 2178 http-bio-9101-exec-5 18
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:33 +0800] "GET /js/ HTTP/1.1" 404 957 http-bio-9101-exec-9 1
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:36 +0800] "GET /brand/selectOptionList.do HTTP/1.1" 200 582 http-bio-9101-exec-10 2634
+0:0:0:0:0:0:0:1 - - [24/Jun/2019:16:14:36 +0800] "POST /typeTemplate/search.do?page=1&rows=10 HTTP/1.1" 200 1005 http-bio-9101-exec-7 2598
